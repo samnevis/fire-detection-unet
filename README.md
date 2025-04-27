@@ -1,6 +1,6 @@
-# Satellite Image Segmentation for Wildfire Detection
+# Satellite Image Segmentation for Burn Scar Detection
 
-This project implements a U-Net based deep learning model for segmenting wildfire areas in satellite imagery. The model is trained to identify and delineate wildfire-affected regions from satellite images.
+This project implements a U-Net based deep learning model for segmenting Burn Scar areas in satellite imagery. The model is trained to identify and delineate wildfire-affected regions from satellite images.
 
 ## Project Structure
 
